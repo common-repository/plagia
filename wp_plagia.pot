@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plagia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-28 15:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: wp_plagia"
+
+#: plagia_admin.php:189
+msgid "Actions"
+msgstr ""
+
+#: plagia_admin.php:141
+msgid "Activer"
+msgstr ""
+
+#: plagia_auto.php:204
+msgid "Annuler"
+msgstr ""
+
+#: plagia_auto.php:189 index.php:182
+msgid "Choisir le mode de vérification"
+msgstr ""
+
+#: plagia_admin.php:105
+msgid "Clé API"
+msgstr ""
+
+#: plagia_admin.php:14
+msgid "Compte"
+msgstr ""
+
+#: plagia_auto.php:163
+msgid "Content of post"
+msgstr ""
+
+#: plagia_admin.php:173
+msgid "Date de création"
+msgstr ""
+
+#: plagia_admin.php:185
+msgid "Date de réponse"
+msgstr ""
+
+#: index.php:139
+msgid "Dernier rapport de plagirisme le "
+msgstr ""
+
+#: index.php:137
+msgid "Derniere modification de contenu le"
+msgstr ""
+
+#: plagia_admin.php:275
+msgid "Domaine à exclure"
+msgstr ""
+
+#: plagia_admin.php:100
+msgid "Email"
+msgstr ""
+
+#: plagia_admin.php:321
+msgid "Enregistrer les modifications"
+msgstr ""
+
+#: plagia_admin.php:126
+msgid "ENTRER VOTRE CLE API"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.logicielantiplagia.fr"
+msgstr ""
+
+#: plagia_admin.php:94
+msgid "Identifiant"
+msgstr ""
+
+#: plagia_admin.php:280
+msgid "Langue de recherche "
+msgstr ""
+
+#: plagia_auto.php:183
+msgid "Mode de vérification"
+msgstr ""
+
+#: plagia_auto.php:198 index.php:191
+msgid "Mode différée"
+msgstr ""
+
+#: plagia_auto.php:193 index.php:186
+msgid "Mode instantanée"
+msgstr ""
+
+#: plagia_admin.php:121
+msgid "Obtenez votre clé API ici"
+msgstr ""
+
+#: plagia_admin.php:22
+msgid "Paramètres"
+msgstr ""
+
+#: plagia_admin.php:299
+msgid "Pays de recherche"
+msgstr ""
+
+#. Name of the plugin
+msgid "plagia"
+msgstr ""
+
+#: plagia_auto.php:3
+msgid "Plagiarism automatique de contenu du site"
+msgstr ""
+
+#: plagia_auto.php:34
+msgid "Post"
+msgstr ""
+
+#: plagia_admin.php:110
+msgid "Quota journalière"
+msgstr ""
+
+#: plagia_admin.php:18
+msgid "Rapports"
+msgstr ""
+
+#: plagia_admin.php:166
+msgid "Réference"
+msgstr ""
+
+#: plagia_admin.php:180 plagia_admin.php:371 plagia_auto.php:47
+#: plagia_auto.php:139
+msgid "Réponse"
+msgstr ""
+
+#. Author of the plugin
+msgid "Shayma Braham"
+msgstr ""
+
+#: plagia_auto.php:41
+msgid "Statut"
+msgstr ""
+
+#: plagia_admin.php:8
+msgid "Tableau de bord "
+msgstr ""
+
+#: plagia_auto.php:44
+msgid "Taux d'unicité"
+msgstr ""
+
+#: plagia_admin.php:354 plagia_admin.php:385 plagia_auto.php:153
+#: plagia_auto.php:172
+msgid "terminé"
+msgstr ""
+
+#: plagia_admin.php:170
+msgid "Texte"
+msgstr ""
+
+#: plagia_admin.php:345
+msgid "Texte à vérifier"
+msgstr ""
+
+#: plagia_auto.php:38
+msgid "Type"
+msgstr ""
+
+#. Description of the plugin
+msgid "un plugin de detetction de plagia"
+msgstr ""
+
+#: plagia_admin.php:177
+msgid "Unicité"
+msgstr ""
+
+#: index.php:146
+msgid "unique"
+msgstr ""
+
+#: plagia_auto.php:202
+msgid "Vérifier"
+msgstr ""
+
+#: plagia_auto.php:17 index.php:193
+msgid "Vérifier le contenu dupliqué"
+msgstr ""
